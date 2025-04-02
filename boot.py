@@ -1,5 +1,5 @@
 """
-MacroKey boot.py
+MacroPad boot.py
 """
 
 import board
