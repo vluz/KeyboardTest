@@ -1,0 +1,4 @@
+Adafruit CircuitPython 9.2.4-317-g04e6363f43 on 2025-03-17; Seeeduino XIAO RP2350 with rp2350
+Board ID:seeeduino_xiao_rp2350
+UID:88AE9AF7FC0D49B8
+boot.py output:
