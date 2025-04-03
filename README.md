@@ -1,6 +1,5 @@
 # KeyboardTest
-
-Breadboard and test code for upcomming macro keyboard.     
+Breadboard and test code for upcoming macro keyboard.     
 
 UC is XIAO RP2350 (https://wiki.seeedstudio.com/getting-started-xiao-rp2350)
 
